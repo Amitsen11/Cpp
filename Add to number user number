@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+int main(){
+    int a,b,Add;
+    //cout << "Enter two integer number :" << endl;
+    cout << "enter first integer number :" << endl;
+    cin >> a;
+    cout << "enter second integer number :" << endl;
+    cin >> b;
+    Add = a+b;
+    cout << "The Add of two number are:" << Add << endl;
+
+    return 0;
+}
