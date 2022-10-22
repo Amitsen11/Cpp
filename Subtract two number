@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+int main(){
+    int a,b,subtract;
+    //cout << "Enter two integer number :" << endl;
+    cout << "enter first integer number :" << endl;
+    cin >> a;
+    cout << "enter second integer number :" << endl;
+    cin >> b;
+    subtract = a-b;
+    cout << "The subtract two number are:" << subtract << endl;
+
+    return 0;
+}
+
